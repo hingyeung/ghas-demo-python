@@ -1,4 +1,2 @@
 server:
-  aws:
-    access_key: AKIAIOSFODNN7EXAMPLE
-    secret: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+  gh_pat: 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
